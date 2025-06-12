@@ -5,6 +5,7 @@
 
 
 -🔭 I’m currently working on: Building cool and creative coding projects (and GitHub glow-up )
+
 -🌱 I’m currently learning : Python,deep learning,panda
 - 👯 I’m looking to collaborate on Beginner-friendly open source projects and fun coding collabs
 - 💬 Ask me about Python, Web dev basics
