@@ -12,7 +12,8 @@
  
 - 💬 Ask me about Python, Web dev basics
   
-- 📫 How to reach me: 
+- 📫 How to reach me:
+   
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshita-gogna-5aa36334a)
 
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshitagogna@gmail.com)
